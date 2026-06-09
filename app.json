@@ -1,0 +1,18 @@
+{
+  "name": "LearnMate",
+  "description": "Agentic AI for Personalized Course Pathways",
+  "problem_statement": "Problem Statement No.12 - Agentic AI for Personalized Course Pathways",
+  "technology": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite-4.0-8B-Instruct",
+    "RAG",
+    "Vector Database"
+  ],
+  "agents": [
+    "Profile Analysis Agent",
+    "Skill Assessment Agent",
+    "Roadmap Generation Agent",
+    "Learning Resource Agent"
+  ]
+}
